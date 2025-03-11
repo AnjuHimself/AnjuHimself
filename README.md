@@ -14,4 +14,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Croupieraigrie&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Croupieraigrie&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+ <h3 align="center">🌙・Discord</h3>
+
+<p align=center>
+<a href="https://discord.com/users/835861948742500372"><img src="https://lanyard.cnrad.dev/api/835861948742500372?bg=AA474C&idleMessage=Travaille%20surement%20sur%20quelque%20chose%20d'autre&theme=dark&showDisplayName=true&hideBadges=false&hideSpotify=true&hideDiscrim=false&hideStatus=true" /></a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
